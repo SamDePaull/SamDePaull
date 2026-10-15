@@ -34,14 +34,15 @@ Building web applications, connecting APIs, and turning ideas into working produ
 | **Database** | MySQL |
 | **Version Control** | Git · GitHub |
 
-## 🚀 Selected Projects
+## 🚀 Recent Projects
 
-| Project | Explore |
-| :--- | :--- |
-| **BGE Supply App** | [Laravel + Filament application →](https://github.com/SamDePaull/bge-supply-app) |
-| **React & MySQL** | [Advanced web development final project →](https://github.com/SamDePaull/Final-TWL-React-Mysql) |
-| **E-commerce Backend** | [JavaScript backend repository →](https://github.com/SamDePaull/e-commerce-backend) |
-| **Ebook & AudioBook** | [JavaScript application repository →](https://github.com/SamDePaull/Ebook-AudioBook) |
+| Project | Overview | Status |
+| :--- | :--- | :--- |
+| **🐾 NutriPet** | A new Flutter application project. | 🔒 Private · Oct 2026 |
+| **🃏 TCG-3D-Web** | An early-stage repository for a TCG web project. | 🔒 Private · Oct 2026 |
+| **🔍 scan-pokemon** | Browser-based experiments with perceptual hashing to identify Pokémon TCG cards from photos. | 🔒 Private · Jul 2026 |
+
+<sub>These repositories are private; source code is not publicly available.</sub>
 
 ## 🌐 Socials
 
