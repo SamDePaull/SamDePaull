@@ -43,9 +43,12 @@ Building web applications, connecting APIs, and turning ideas into working produ
 | **E-commerce Backend** | [JavaScript backend repository →](https://github.com/SamDePaull/e-commerce-backend) |
 | **Ebook & AudioBook** | [JavaScript application repository →](https://github.com/SamDePaull/Ebook-AudioBook) |
 
-## 🤝 Let's Connect
+## 🌐 Socials
 
-Explore my repositories, open an issue on a project, or follow along with what I'm building.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prima_sam/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primawillasamudra)
+
+Explore my repositories or follow along with what I'm building.
 
 [![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamDePaull)
 
